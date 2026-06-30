@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" width="100%" alt="X Tower Defense: Reforged Banner">
+  <img src="assets/banner.png" width="100%" alt="X Tower Defense: Reforged Banner">
 </p>
 
 # X Tower Defense: Reforged
