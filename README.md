@@ -1,6 +1,14 @@
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="X Tower Defense: Reforged Banner">
 </p>
+<p align="center">
+
+![Lua](https://img.shields.io/badge/Language-Lua-blue.svg)
+![Warcraft III](https://img.shields.io/badge/Game-Warcraft%20III%20Reforged-gold.svg)
+![Status](https://img.shields.io/badge/Status-Beta-green.svg)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-purple.svg)
+
+</p>
 
 # X Tower Defense: Reforged
 
