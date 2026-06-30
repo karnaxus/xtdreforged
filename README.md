@@ -63,6 +63,8 @@ Please do **not** redistribute or deprotect the protected map.
 ## Repository Structure
 
 ``` text
+Init/
+Constants/
 Core/
 Data/
 Systems/
