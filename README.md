@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="X Tower Defense: Reforged Banner">
+</p>
+
 # X Tower Defense: Reforged
 
 > A modern reimagining of the original **X Tower Defense**, created by
